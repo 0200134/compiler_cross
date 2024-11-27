@@ -3,6 +3,6 @@
 
 int main(){
 
-std::cout<<"General Compiler<<std::endl;
+std::cout<<"General Compiler"<<std::endl;
 
 }
